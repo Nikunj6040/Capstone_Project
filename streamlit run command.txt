@@ -1,0 +1,2 @@
+
+streamlit run "D:\Multiple Disease Prediction System-20240108T060820Z-001\Multiple Disease Prediction System\multiple disease pred.py"
